@@ -1,0 +1,5 @@
+{
+  "name": "TeleVault",
+  "description": "A professional cloud file manager leveraging Telegram's infrastructure for unlimited storage.",
+  "requestFramePermissions": []
+}
